@@ -1,0 +1,34 @@
+ALEX CHEN
+San Francisco, CA | alex.chen@example.com | (555) 234-5678 | linkedin.com/in/alexchen-ai | github.com/alexchen
+
+PROFESSIONAL SUMMARY
+Data Scientist with 3+ years of experience specializing in NLP, predictive analytics, and machine learning pipelines. Demonstrated success deploying models into production that enhanced customer retention by 18% and reduced query latency by 35%. Passionate about Large Language Models, embeddings, and RAG architectures.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, R, Bash
+- Frameworks & Libraries: PyTorch, Scikit-Learn, Pandas, NumPy, Hugging Face Transformers, LangChain, FAISS
+- Data & Cloud: PostgreSQL, Snowflake, AWS (S3, SageMaker, EC2), Docker, Git
+- Domains: Natural Language Processing, Recommendation Systems, Statistical Experimentation, LLM Evaluation
+
+WORK EXPERIENCE
+Data Scientist | QuantEdge Analytics | 2022 – Present
+- Designed and deployed an end-to-end NLP customer sentiment engine using fine-tuned RoBERTa, processing 500k+ reviews monthly with 92% classification accuracy.
+- Built a semantic search prototype using FAISS vector indexing and sentence embeddings, cutting customer support search time by 40%.
+- Engineered automated ETL data pipelines in Python and SQL for cross-functional dashboarding, serving 12 internal business units.
+- Collaborated with engineering teams to containerize ML models via Docker and deploy microservices on AWS EC2.
+
+Junior ML Engineer | DataFlow Dynamics | 2021 – 2022
+- Conducted exploratory data analysis and feature engineering on transactional datasets exceeding 10M rows using Pandas and PySpark.
+- Built supervised regression models to forecast quarterly customer churn, achieving an AUC-ROC of 0.88.
+- Developed automated PyTest validation suites to ensure data integrity across ML ingestion pipelines.
+
+EDUCATION
+Master of Science in Computer Science (Specialization: Machine Learning)
+University of California, San Diego | 2019 – 2021 | GPA: 3.85 / 4.0
+
+Bachelor of Technology in Information Technology
+National Institute of Technology | 2015 – 2019 | GPA: 8.6 / 10.0
+
+KEY PROJECTS
+- SmartDoc Q&A (RAG System): Built a document retrieval question-answering tool using LangChain, OpenAI API, and ChromaDB vector store.
+- CodeGen Assistant: Fine-tuned a CodeLlama-7B model using LoRA for automated docstring and unit test generation.

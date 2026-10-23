@@ -1,0 +1,30 @@
+PRIYA SHARMA
+Bangalore, India | priya.sharma@example.com | +91 98765 43210 | github.com/priyasharma-dev
+
+PROFESSIONAL SUMMARY
+Dynamic Frontend Developer with 2.5 years of experience crafting accessible, responsive, and performance-optimized web applications. Proficient in React, Next.js, TypeScript, and modern CSS frameworks. Adept at transforming complex UI/UX designs into seamless interactive experiences.
+
+TECHNICAL SKILLS
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS
+- Libraries & Frameworks: React.js, Next.js, Redux Toolkit, Tailwind CSS, Material-UI, Jest, React Testing Library
+- Tools & Platforms: Git, Webpack, Vite, Figma, Vercel, Netlify, REST APIs, GraphQL basics
+
+PROFESSIONAL EXPERIENCE
+Frontend Developer | PixelCraft Solutions | Jan 2023 – Present
+- Developed modular React/Next.js dashboard interfaces used by 45,000+ daily active users, boosting user engagement by 22%.
+- Optimized Core Web Vitals, reducing First Contentful Paint (FCP) by 42% and Largest Contentful Paint (LCP) from 3.8s to 1.9s.
+- Built reusable UI component libraries adhering to WCAG 2.1 AA accessibility guidelines using Tailwind CSS and Storybook.
+- Integrated RESTful endpoints and managed global state using Redux Toolkit and React Query for optimistic UI updates.
+
+Junior Web Developer | InnovateWeb Studio | Aug 2021 – Dec 2022
+- Built client landing pages and e-commerce product catalogs using JavaScript, HTML5, and responsive CSS Grid/Flexbox.
+- Implemented client-side form validation and interactive modal workflows, reducing cart checkout bounce rates by 15%.
+- Collaborated with QA teams to write unit tests using Jest, achieving 85% test coverage across core modules.
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Visvesvaraya Technological University | 2017 – 2021 | First Class with Distinction
+
+PROJECTS
+- DevPortfolio Pro: Open-source developer portfolio generator with live markdown preview and customizable dark/light themes.
+- TaskFlow Kanban: Collaborative agile board built with Next.js, TypeScript, and TailwindCSS with real-time drag-and-drop.
