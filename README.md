@@ -193,3 +193,7 @@ See [reports/answer_quality.md](reports/answer_quality.md) for detailed benchmar
 
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
+=======
+# smarthire-genai
+SmartHire is an AI-powered recruitment platform that streamlines hiring through intelligent resume parsing, candidate-job matching, skill analysis, and automated screening. Built with Python, Streamlit, NLP, and Machine Learning, it helps recruiters identify the best candidates quickly and efficiently.
+>>>>>>> cc5950979cfe08ed67c3b36b89b71cc47216e277
