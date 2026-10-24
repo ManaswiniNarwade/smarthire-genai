@@ -20,3 +20,4 @@ transformers
 torch
 PyPDF2
 pypdf
+torchvision
